@@ -25,3 +25,5 @@ while wait_for_number:
         print(f"{operator} is not '+' or '-' or '/' or '*'. Try again")
         continue
 print(result)
+
+
